@@ -2,11 +2,20 @@
 
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 collector.github.com
 0.0.0.0 westus-0.in.applicationinsights.azure.com
 0.0.0.0 app.chat.global.xiaomi.net
 0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 beacons5.gvt2.com
-0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 perr.l-err.biz
+0.0.0.0 cloudconf-app-id.heytapmobile.com
+0.0.0.0 perr.l-agent.me
+0.0.0.0 3a716e2d-fa15-4b1f-b971-7d38a9370dae-netseer-ipaddr-assoc.xy.fbcdn.net
+0.0.0.0 grs.platform.dbankcloud.ru
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
