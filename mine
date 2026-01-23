@@ -8,6 +8,7 @@
 ||ahadns.net^
 ||ahadns.com^
 ||itotolink.net^
+||totolink.net^
 ||totolinkc.com^
 ||totolink.cn^
 ||a.root-servers.net^
@@ -28,12 +29,43 @@
 ||ucweb.com^$important
 ||ucfly.com^$important
 ||uc123.com^$important
+||qq.com^$important
+||inapps.appsflyersdk.com^$important
+||shalltry.com^$important
+||hotbmoyisu.today^$important
+0.0.0.0    api.us-west-2.aiv-delivery.net
+0.0.0.0    api.input.intl.miui.com
+0.0.0.0    graph.accountkit.com
+0.0.0.0    sconfig-inmobi-comtm.trafficmanager.net
+0.0.0.0    sconfig-server-eastus.trafficmanager.inmobi.com
+0.0.0.0    sfunc.ivymobile.com
+0.0.0.0    up.cm.ksmobile.com
+0.0.0.0    sccc.sys.intl.xiaomi.com
+0.0.0.0    sconfig-server-gke-gw1.ssp.inmobi.com
+0.0.0.0    sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
+0.0.0.0    sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com
+0.0.0.0    sf16-fe-tos-sg.i18n-pglstatp.com
+0.0.0.0    tr069-avs.firstmedia.com
+0.0.0.0    browser.sentry-cdn.com
+0.0.0.0    ads.baca.co.id
+0.0.0.0    ai.adtarget.tech
+0.0.0.0    ipv4.test-ipv6.ch
+0.0.0.0    bdapi-id.ads.heytapmobile.com
+0.0.0.0    api-id.theme.heytapmobile.com
+0.0.0.0    resolver.msg.xiaomi.net
+0.0.0.0    api.hybrid.intl.xiaomi.com
 0.0.0.0    t7.a.market.xiaomi.com
 0.0.0.0    httpdns.push.oppomobile.com
+0.0.0.0    statf.dc.oppomobile.com
+0.0.0.0    httpdns.ocloud.oppomobile.com
 0.0.0.0    mytelkomselprod.api.useinsider.com
+0.0.0.0    cdnt.netcoresmartech.com
+0.0.0.0    npa.netcoresmartech.com
 0.0.0.0    v-id.ls.glance-internal.inmobi.com
+0.0.0.0    us.ynuf.aliapp.org
 0.0.0.0    geoip.hmageo.com
-0.0.0.0    uwnxnw.inapps.appsflyersdk.com
+0.0.0.0    telemetry.eastus.trafficmanager.net
+0.0.0.0    api2.wshareit.com
 0.0.0.0    nam.veta.naver.com
 0.0.0.0    telemetry-gke-gw3.ssp.inmobi.com
 0.0.0.0    at.alicdn.com
@@ -49,6 +81,7 @@
 0.0.0.0    csi.gstatic.com
 0.0.0.0    api.gallery.intl.miui.com
 0.0.0.0    activity-store-gl.heytapmobile.com
+0.0.0.0    video-api-id.heytapmobile.com
 0.0.0.0    s.w-x.co
 0.0.0.0    bvtpk.com
 0.0.0.0    sp-trk.com
@@ -344,7 +377,6 @@
 0.0.0.0    audid-api-sg.taobao.com
 0.0.0.0    flash.sec.intl.miui.com
 0.0.0.0    mum.alibabachengdun.com
-0.0.0.0    inapps.appsflyersdk.com
 0.0.0.0    pangolin16.sgsnssdk.com
 0.0.0.0    middle-defend.afafb.com
 0.0.0.0    link.rubiconproject.com
@@ -466,23 +498,17 @@
 0.0.0.0    aps3-spiky.clevertap-prod.com
 0.0.0.0    ocloud-uni-gl.heytapmobile.com
 0.0.0.0    incoming.telemetry.mozilla.org
-0.0.0.0    xwwx67.inapps.appsflyersdk.com
 0.0.0.0    resolver.msg.global.xiaomi.net
 0.0.0.0    slb-apisnd-in.heytapmobile.com
 0.0.0.0    firebaselogging.googleapis.com
 0.0.0.0    api16-dual-event-sg2.pangle.io
 0.0.0.0    multiservice.guangzhuiyuan.com
-0.0.0.0    6ipwiy.inapps.appsflyersdk.com
-0.0.0.0    a2tnxf.inapps.appsflyersdk.com
 0.0.0.0    analytics.starmakerstudios.com
 0.0.0.0    ys-log-upload-os.hoyoverse.com
 0.0.0.0    ad-log-upload-os.hoyoverse.com
 0.0.0.0    terabox.apse.svr.rixengine.com
-0.0.0.0    nzyz5e.inapps.appsflyersdk.com
-0.0.0.0    c7cocc.inapps.appsflyersdk.com
 0.0.0.0    store-quic-id.heytapmobile.com
 0.0.0.0    http-intake.logs.datadoghq.com
-0.0.0.0    bhum1w.inapps.appsflyersdk.com
 0.0.0.0    obus-config-sg.heytapmobile.com
 0.0.0.0    us.micardapi.micloud.xiaomi.net
 0.0.0.0    cl-data-id.ads.heytapmobile.com
@@ -631,7 +657,6 @@
 0.0.0.0    dc.di.atlas.samsung.com
 0.0.0.0    ios.pclog.3u.com
 0.0.0.0    ep2.adtrafficquality.google
-0.0.0.0    stpphi.inapps.appsflyersdk.com
 0.0.0.0    stpphi.launches.appsflyersdk.com
 0.0.0.0    cli-fb-tcp.mintegral.net
 0.0.0.0    api.maxesads.com
@@ -656,7 +681,6 @@
 0.0.0.0    sf19-static.i18n-pglstatp.com
 0.0.0.0    lazy.mtgglobals.com
 0.0.0.0    ismmyx.cdn-settings.appsflyersdk.com
-0.0.0.0    awknd1.inapps.appsflyersdk.com
 0.0.0.0    w3togo.launches.appsflyersdk.com
 0.0.0.0    cm-10-171.getui.com
 0.0.0.0    apm-log-upload-os.hoyoverse.com
@@ -672,7 +696,6 @@
 0.0.0.0    cdn.tapioni.com
 0.0.0.0    centralized.zaloapp.com
 0.0.0.0    rslw0r.launches.appsflyersdk.com
-0.0.0.0    rslw0r.inapps.appsflyersdk.com
 0.0.0.0    mediation.pangle.io
 0.0.0.0    4ftz8s.cdn-settings.appsflyersdk.com
 0.0.0.0    otlp.nr-data.net
@@ -708,7 +731,6 @@
 0.0.0.0    config.fp.measure.office.com
 0.0.0.0    zicddk.cdn-settings.appsflyersdk.com
 0.0.0.0    telemetry-gke-gw1.ssp.inmobi.com
-0.0.0.0    jv9b33.inapps.appsflyersdk.com
 0.0.0.0    apm-rum-sgp.inf.miui.com
 0.0.0.0    telemetry-gke-gw2.ssp.inmobi.comz
 0.0.0.0    mini-game-sg.heytapmobile.com
@@ -719,14 +741,12 @@
 0.0.0.0    t-in.ls.glanceapis.com
 0.0.0.0    gsgorpt.adview.com
 0.0.0.0    metrics-dra.dt.dbankcloud.cn
-0.0.0.0    4rtlop.inapps.appsflyersdk.com
 0.0.0.0    ztoken.uyunad.com
 0.0.0.0    mazu.m.qq.com
 0.0.0.0    sdkserver-dra.op.hicloud.com
 0.0.0.0    supply-inmobicdn-gcp-cdn.ssp.inmobi.com
 0.0.0.0    a-ring.msedge.net
 0.0.0.0    i-l-dsp-inmobicdnnet-gcp-cdn.ihasdsp.inmobi.com
-0.0.0.0    gfddmj.inapps.appsflyersdk.com
 0.0.0.0    onelinksmartscript.appsflyer.com
 0.0.0.0    sdk-oversea.dmrtb.com
 0.0.0.0    ip2city.domob.cn
