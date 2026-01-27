@@ -33,7 +33,6 @@
 ||linklist.bio^
 ||p23hxejm1.com^$important
 ||doileak.com^$important
-||onelink.me^$important
 ||ucweb.com^$important
 ||ucfly.com^$important
 ||uc123.com^$important
@@ -100,7 +99,6 @@
 0.0.0.0    log32-normal-sg.capcutapi.com
 0.0.0.0    static.whatshelp.io
 0.0.0.0    app.adjust.com
-0.0.0.0    realshortapp.onelink.me
 0.0.0.0    app.appsflyer.com
 0.0.0.0    csi.gstatic.com
 0.0.0.0    api.gallery.intl.miui.com
@@ -358,7 +356,6 @@
 0.0.0.0    sentry-prod.branch.io
 0.0.0.0    api.lab.amplitude.com
 0.0.0.0    bidder.tradplusad.com
-0.0.0.0    snssdk1180.onelink.me
 0.0.0.0    noti-us.adsmoloco.com
 0.0.0.0    mobile.useinsider.com
 0.0.0.0    collect.ureca-lab.com
@@ -641,7 +638,6 @@
 0.0.0.0    dsu-b.shalltry.com
 0.0.0.0    o87fbg.launches.appsflyersdk.com
 0.0.0.0    regi.di.atlas.samsung.com
-0.0.0.0    vita.onelink.me
 0.0.0.0    i.l-uac.inmobicdn.net
 0.0.0.0    sf19-static.i18n-pglstatp.com
 0.0.0.0    lazy.mtgglobals.com
