@@ -225,3 +225,4 @@
 ||uw-dns.rubyfish.cn*^$important
 ||1dot1dot1dot1.cloudflare-dns.com*^$important
 ||2.dnscrypt-cert.dns.seby.io*^$important
+||doh.sb*^$important
