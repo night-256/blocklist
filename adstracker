@@ -1,3 +1,8 @@
+||.doubleclick.net^$important
+||tr069-avs.firstmedia.com^$important
+||thirdplat.189cube.com^$important
+||119.157.251.142.in-addr.arpa^$important
+||www.jsshuzijiating.com^$important
 ||carystudio.com^$important
 ||anondns.net^$important
 ||showmyproxy.com^$important
@@ -19,7 +24,6 @@
 ||avast.com^$important
 ||n0qq3z.com^$important
 ||holy-push.com^$important
-||lenovo.com^$important
 ||ptoamtoucoay.com^$important
 ||tessopomsu.com^$important
 ||perfect-privacy.com^$important
@@ -47,627 +51,627 @@
 ||ccc9b61733.com^$important
 ||bb88480f1d.com^$important
 ||0d9063412c.com^$important
-0.0.0.0    fp.customtowaway.com
-0.0.0.0    ocsp.comodoca.com
-0.0.0.0    ad.youtube.com
-0.0.0.0    p16-be-pack-va.i18n-pglstatp.com
-0.0.0.0    reports.crashlytics.com
-0.0.0.0    kswj.unionapps.info
-0.0.0.0    protostats.bigo.sg
-0.0.0.0    cdnx.soinluck.com
-0.0.0.0    notify.bugsnag.com
-0.0.0.0    astat.bugly.qcloud.com
-0.0.0.0    tracker.dsp.os.medproad.com
-0.0.0.0    cust-dv.zentrick.com
-0.0.0.0    servx.bidsxplayer.com
-0.0.0.0    taomsg-imvod.alicdn.com
-0.0.0.0    online-bill.lenzmx.com
-0.0.0.0    marketingplatform.google.com
-0.0.0.0    api.us-west-2.aiv-delivery.net
-0.0.0.0    api.input.intl.miui.com
-0.0.0.0    graph.accountkit.com
-0.0.0.0    sconfig-server-eastus.trafficmanager.inmobi.com
-0.0.0.0    sfunc.ivymobile.com
-0.0.0.0    up.cm.ksmobile.com
-0.0.0.0    sccc.sys.intl.xiaomi.com
-0.0.0.0    sconfig-server-gke-gw1.ssp.inmobi.com
-0.0.0.0    sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
-0.0.0.0    sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com
-0.0.0.0    sf16-fe-tos-sg.i18n-pglstatp.com
-0.0.0.0    tr069-avs.firstmedia.com
-0.0.0.0    browser.sentry-cdn.com
-0.0.0.0    ads.baca.co.id
-0.0.0.0    ai.adtarget.tech
-0.0.0.0    ipv4.test-ipv6.ch
-0.0.0.0    resolver.msg.xiaomi.net
-0.0.0.0    api.hybrid.intl.xiaomi.com
-0.0.0.0    t7.a.market.xiaomi.com
-0.0.0.0    statf.dc.oppomobile.com
-0.0.0.0    mytelkomselprod.api.useinsider.com
-0.0.0.0    cdnt.netcoresmartech.com
-0.0.0.0    npa.netcoresmartech.com
-0.0.0.0    v-id.ls.glance-internal.inmobi.com
-0.0.0.0    us.ynuf.aliapp.org
-0.0.0.0    geoip.hmageo.com
-0.0.0.0    api2.wshareit.com
-0.0.0.0    nam.veta.naver.com
-0.0.0.0    telemetry-gke-gw3.ssp.inmobi.com
-0.0.0.0    at.alicdn.com
-0.0.0.0    os.alipayobjects.com
-0.0.0.0    6288666.global.r2.siteimproveanalytics.io
-0.0.0.0    caterpillar.tt.omtrdc.net
-0.0.0.0    log32-normal-sg.capcutapi.com
-0.0.0.0    static.whatshelp.io
-0.0.0.0    app.adjust.com
-0.0.0.0    app.appsflyer.com
-0.0.0.0    csi.gstatic.com
-0.0.0.0    api.gallery.intl.miui.com
-0.0.0.0    s.w-x.co
-0.0.0.0    bvtpk.com
-0.0.0.0    sp-trk.com
-0.0.0.0    update.avlyun.sec.miui.com
-0.0.0.0    g.live.com
-0.0.0.0    port.sec.intl.miui.com
-0.0.0.0    servg1.net
-0.0.0.0    ynuf.aliapp.org
-0.0.0.0    brdtest.com
-0.0.0.0    id.popin.cc
-0.0.0.0    hb.jixie.io
-0.0.0.0    z.totonm.com
-0.0.0.0    xp.apple.com
-0.0.0.0    y.alicdn.com
-0.0.0.0    g.alicdn.com
-0.0.0.0    t.alicdn.com
-0.0.0.0    log.popin.cc
-0.0.0.0    go.ezodn.com
-0.0.0.0    fo.iemiq.com
-0.0.0.0    c.paypal.com
-0.0.0.0    cdn4image.com
-0.0.0.0    img.cdn.house
-0.0.0.0    fp.msedge.net
-0.0.0.0    app.adjust.io
-0.0.0.0    tr.acobt.tech
-0.0.0.0    movip.wps.com
-0.0.0.0    p.typekit.net
-0.0.0.0    puz.afafb.com
-0.0.0.0    econventa.com
-0.0.0.0    dt.beyla.site
-0.0.0.0    eu.ekatox.com
-0.0.0.0    ms.applvn.com
-0.0.0.0    api.mythad.com
-0.0.0.0    api.onegg.site
-0.0.0.0    perr.l-err.biz
-0.0.0.0    lms.roblox.com
-0.0.0.0    img.alicdn.com
-0.0.0.0    push.meitu.com
-0.0.0.0    i.sgsnssdk.com
-0.0.0.0    ms4.applvn.com
-0.0.0.0    mediation.goog
-0.0.0.0    go.rcvlink.com
-0.0.0.0    t.pubmatic.com
-0.0.0.0    d.applovin.com
-0.0.0.0    api.mosspf.net
-0.0.0.0    api.mossru.com
-0.0.0.0    tc.vbnmhjlp.com
-0.0.0.0    ds.shalltry.com
-0.0.0.0    perr.l-agent.me
-0.0.0.0    aet.spotify.com
-0.0.0.0    lang.alicdn.com
-0.0.0.0    af.shalltry.com
-0.0.0.0    fm.shalltry.com
-0.0.0.0    sil.appnext.com
-0.0.0.0    ms.shalltry.com
-0.0.0.0    id.hadron.ad.gt
-0.0.0.0    bid.sparteo.com
-0.0.0.0    tc.qzwxrtyk.com
-0.0.0.0    st.pubmatic.com
-0.0.0.0    st.wshareit.com
-0.0.0.0    mdap.alipay.com
-0.0.0.0    umdc.aliapp.org
-0.0.0.0    b-gtc.getui.net
-0.0.0.0    c-gtc.getui.net
-0.0.0.0    ms.applovin.com
-0.0.0.0    rt.applovin.com
-0.0.0.0    rmonitor.qq.com
-0.0.0.0    tc.mnbvcxzq.com
-0.0.0.0    tkda.mossru.com
-0.0.0.0    icu.newsroom.bi
-0.0.0.0    p.cquotient.com
-0.0.0.0    go.rcvlinks.com
-0.0.0.0    logs.netflix.com
-0.0.0.0    wvcfg.alicdn.com
-0.0.0.0    api.adaether.com
-0.0.0.0    api.mossfast.com
-0.0.0.0    beacons.gvt2.com
-0.0.0.0    ecsv2.roblox.com
-0.0.0.0    dit.whatsapp.net
-0.0.0.0    i-n.sgsnssdk.com
-0.0.0.0    sts.applovin.com
-0.0.0.0    rep.maxesads.com
-0.0.0.0    cdn.insurads.com
-0.0.0.0    id.crwdcntrl.net
-0.0.0.0    ins.shalltry.com
-0.0.0.0    s-odx.oleads.com
-0.0.0.0    bband1.afafb.com
-0.0.0.0    tadata.afafb.com
-0.0.0.0    cdn.id5-sync.com
-0.0.0.0    cdn.shalltry.com
-0.0.0.0    api.inmense.site
-0.0.0.0    ios-pclog.3u.com
-0.0.0.0    int.kvaedit.site
-0.0.0.0    apps.outfit7.com
-0.0.0.0    gak.webtoons.com
-0.0.0.0    b-gtc.gepush.com
-0.0.0.0    d-code.liadm.com
-0.0.0.0    gcm.ksmobile.net
-0.0.0.0    ww1.soldstock.io
-0.0.0.0    ups.ksmobile.net
-0.0.0.0    p4-ad.adkwai.com
-0.0.0.0    c-gtc.gepush.com
-0.0.0.0    sofire.baidu.com
-0.0.0.0    ulog.kwai-pro.com
-0.0.0.0    vulcan2.branch.io
-0.0.0.0    ssdk-sg.pangle.io
-0.0.0.0    ingress.linktr.ee
-0.0.0.0    api.mossturbo.com
-0.0.0.0    kste.ksapisrv.com
-0.0.0.0    beacons2.gvt2.com
-0.0.0.0    beacons3.gvt2.com
-0.0.0.0    beacons4.gvt2.com
-0.0.0.0    beacons5.gvt2.com
-0.0.0.0    beacons5.gvt3.com
-0.0.0.0    vulcan5.branch.io
-0.0.0.0    api.onesignal.com
-0.0.0.0    vulcan3.branch.io
-0.0.0.0    tz.sec.xiaomi.com
-0.0.0.0    px-intl.ucweb.com
-0.0.0.0    hudong.alicdn.com
-0.0.0.0    e2c4.gcp.gvt2.com
-0.0.0.0    adui.tg.meitu.com
-0.0.0.0    featureassets.org
-0.0.0.0    parsley.detik.com
-0.0.0.0    inrecsys.popin.cc
-0.0.0.0    e2c7.gcp.gvt2.com
-0.0.0.0    gslb.shalltry.com
-0.0.0.0    tkda.mossfast.com
-0.0.0.0    cfg.sonicsads.com
-0.0.0.0    res.adx.opera.com
-0.0.0.0    s-odx.osite99.com
-0.0.0.0    gamedot.afafb.com
-0.0.0.0    vulcan1.branch.io
-0.0.0.0    cdn.econventa.com
-0.0.0.0    e2c6.gcp.gvt2.com
-0.0.0.0    sdk.ad.smaato.net
-0.0.0.0    sdk-api.kidoz.net
-0.0.0.0    use1-turn.fpjs.io
-0.0.0.0    ulog.kwaipros.com
-0.0.0.0    wlog.kuaishou.com
-0.0.0.0    cdn.cookielaw.org
-0.0.0.0    npv.sonicsads.com
-0.0.0.0    promo.cermati.com
-0.0.0.0    kix-api.mythad.com
-0.0.0.0    clevertap-prod.com
-0.0.0.0    api.antibanads.com
-0.0.0.0    oslab.shalltry.com
-0.0.0.0    e2c46.gcp.gvt2.com
-0.0.0.0    e2c20.gcp.gvt2.com
-0.0.0.0    e2c11.gcp.gvt2.com
-0.0.0.0    e2c30.gcp.gvt2.com
-0.0.0.0    684d0d42.akstat.io
-0.0.0.0    api.useinsider.com
-0.0.0.0    tracing.roblox.com
-0.0.0.0    gjapplog.ucweb.com
-0.0.0.0    e2c78.gcp.gvt2.com
-0.0.0.0    stat.meitudata.com
-0.0.0.0    applets.ebxcdn.com
-0.0.0.0    analytic.detik.com
-0.0.0.0    cdn.browsiprod.com
-0.0.0.0    sync.quantumdex.io
-0.0.0.0    ads.servenobid.com
-0.0.0.0    api.robin-flow.com
-0.0.0.0    e2c22.gcp.gvt2.com
-0.0.0.0    tkda.mossturbo.com
-0.0.0.0    e2c26.gcp.gvt2.com
-0.0.0.0    e2c48.gcp.gvt2.com
-0.0.0.0    adx.ads.vungle.com
-0.0.0.0    dsu-a.shalltry.com
-0.0.0.0    scripts.clarity.ms
-0.0.0.0    dc.dqa.samsung.com
-0.0.0.0    cdn.mobilefuse.com
-0.0.0.0    api.tradplusad.com
-0.0.0.0    api.dollphoin.site
-0.0.0.0    events.newsroom.bi
-0.0.0.0    e2c69.gcp.gvt2.com
-0.0.0.0    e2c61.gcp.gvt2.com
-0.0.0.0    adsdk.microsoft.com
-0.0.0.0    default.exp-tas.com
-0.0.0.0    perr.bright-sdk.com
-0.0.0.0    mail-ads.google.com
-0.0.0.0    proxyjs.brdtnet.com
-0.0.0.0    meepo.meitustat.com
-0.0.0.0    sdk-01.moengage.com
-0.0.0.0    sdk-06.moengage.com
-0.0.0.0    log.byteoversea.com
-0.0.0.0    logs.ads.vungle.com
-0.0.0.0    newrevive.detik.com
-0.0.0.0    cdn.prod.uidapi.com
-0.0.0.0    scripts.jixie.media
-0.0.0.0    ae.iads.unity3d.com
-0.0.0.0    api.parrot-flow.com
-0.0.0.0    tkda.robin-flow.com
-0.0.0.0    titokshopsea.pxf.io
-0.0.0.0    apioci.chavoads.com
-0.0.0.0    cdn.ynuf.aliapp.org
-0.0.0.0    analytics.avcdn.net
-0.0.0.0    mssdk-sg.tiktok.com
-0.0.0.0    images.phonedata.me
-0.0.0.0    l.contentsquare.net
-0.0.0.0    logsdk.kwai-pro.com
-0.0.0.0    cm-10-197.getui.com
-0.0.0.0    ire-dsc.shalltry.com
-0.0.0.0    js.monitor.azure.com
-0.0.0.0    lazy-tcp.rayjump.com
-0.0.0.0    beacons.gcp.gvt2.com
-0.0.0.0    collector.github.com
-0.0.0.0    tnc-sg.capcutapi.com
-0.0.0.0    rabbit.meitustat.com
-0.0.0.0    gondar.meitustat.com
-0.0.0.0    ire-dsu.shalltry.com
-0.0.0.0    analytics.google.com
-0.0.0.0    mon-sg.capcutapi.com
-0.0.0.0    sstatic1.histats.com
-0.0.0.0    ads.digiadglobal.com
-0.0.0.0    useast.quantumdex.io
-0.0.0.0    trace.free-reels.com
-0.0.0.0    cdn.iads.unity3d.com
-0.0.0.0    toblog.tobsnssdk.com
-0.0.0.0    gametester.afafb.com
-0.0.0.0    sessions.bugsnag.com
-0.0.0.0    surgex.media-412.com
-0.0.0.0    log-boot.tiktokv.com
-0.0.0.0    event.tradplusad.com
-0.0.0.0    assets.mintegral.com
-0.0.0.0    analytics.300624.com
-0.0.0.0    behacdn.ksmobile.net
-0.0.0.0    cfg.cml.ksmobile.com
-0.0.0.0    log-sdk.ksapisrv.com
-0.0.0.0    cachedown.alicdn.com
-0.0.0.0    analytic20.detik.com
-0.0.0.0    metrics-prod.suno.com
-0.0.0.0    check-tcp.rayjump.com
-0.0.0.0    shepherd.ff.avast.com
-0.0.0.0    mcc-intl.inf.miui.com
-0.0.0.0    api.sec.intl.miui.com
-0.0.0.0    config.ads.vungle.com
-0.0.0.0    mcc.intl.inf.miui.com
-0.0.0.0    ingest.m2catalyst.com
-0.0.0.0    events.ads.vungle.com
-0.0.0.0    log15.byteoversea.com
-0.0.0.0    adv.sec.intl.miui.com
-0.0.0.0    imasdk.googleapis.com
-0.0.0.0    public.servenobid.com
-0.0.0.0    i.l-new.inmobicdn.net
-0.0.0.0    api.device.xiaomi.net
-0.0.0.0    sentry-prod.branch.io
-0.0.0.0    api.lab.amplitude.com
-0.0.0.0    bidder.tradplusad.com
-0.0.0.0    noti-us.adsmoloco.com
-0.0.0.0    mobile.useinsider.com
-0.0.0.0    collect.ureca-lab.com
-0.0.0.0    r-id.ls.glanceapis.com
-0.0.0.0    one.cryptonomiconf.com
-0.0.0.0    policy-tcp.rayjump.com
-0.0.0.0    sg1.clevertap-prod.com
-0.0.0.0    proxyjs.bright-sdk.com
-0.0.0.0    http-test1.brdtnet.com
-0.0.0.0    ire-oneid.shalltry.com
-0.0.0.0    mediation-sg.pangle.io
-0.0.0.0    apse.trk.rixengine.com
-0.0.0.0    api-ad-adapter.wps.com
-0.0.0.0    api16-log-va.pangle.io
-0.0.0.0    us1.clevertap-prod.com
-0.0.0.0    sdkc.vervegroupinc.net
-0.0.0.0    apm-receiver.afafb.com
-0.0.0.0    os-notice.shalltry.com
-0.0.0.0    pa.netcoresmartech.com
-0.0.0.0    ai-robot-hub.afafb.com
-0.0.0.0    crashlogs.whatsapp.net
-0.0.0.0    v16-ad.byteoversea.com
-0.0.0.0    in.ap1.segmentapis.com
-0.0.0.0    adashx.ut.dingtalk.com
-0.0.0.0    statistic.live.126.net
-0.0.0.0    v-id.ls.glanceapis.com
-0.0.0.0    analytics.us.tiktok.com
-0.0.0.0    newsaggreg.shalltry.com
-0.0.0.0    streamback.ff.avast.com
-0.0.0.0    collector.bsg.brave.com
-0.0.0.0    ogads-pa.googleapis.com
-0.0.0.0    lazy-tcp.mtgglobals.com
-0.0.0.0    audid-api-sg.taobao.com
-0.0.0.0    flash.sec.intl.miui.com
-0.0.0.0    mum.alibabachengdun.com
-0.0.0.0    pangolin16.sgsnssdk.com
-0.0.0.0    middle-defend.afafb.com
-0.0.0.0    link.rubiconproject.com
-0.0.0.0    cpn.netcoresmartech.com
-0.0.0.0    npn.netcoresmartech.com
-0.0.0.0    statics.creativecdn.com
-0.0.0.0    tobapplog.tobsnssdk.com
-0.0.0.0    nelo2-col.navercorp.com
-0.0.0.0    sdk.open.talk.getui.com
-0.0.0.0    ether-pack-va.pangle.io
-0.0.0.0    www.app-ads-services.com
-0.0.0.0    settings.crashlytics.com
-0.0.0.0    www.googletagmanager.com
-0.0.0.0    eitri.api.useinsider.com
-0.0.0.0    check-tcp.mtgglobals.com
-0.0.0.0    authbe.sec.intl.miui.com
-0.0.0.0    api.g.micloud.xiaomi.net
-0.0.0.0    mssdk-sg.byteoversea.com
-0.0.0.0    micro.rubiconproject.com
-0.0.0.0    cdn.liftoff-creatives.io
-0.0.0.0    apac.trk.svr-algorix.com
-0.0.0.0    gamedot-config.afafb.com
-0.0.0.0    sspapi-prd.samsungrs.com
-0.0.0.0    api-adservices.apple.com
-0.0.0.0    odm.app-ads-services.com
-0.0.0.0    analytics.wondershare.cc
-0.0.0.0    gangwaynumberprivacy.com
-0.0.0.0    loremipsum.adkaora.space
-0.0.0.0    yslid.api.useinsider.com
-0.0.0.0    h-adashx.ut.dingtalk.com
-0.0.0.0    supportmetrics.apple.com
-0.0.0.0    startup.mobile.yandex.net
-0.0.0.0    configure-tcp.rayjump.com
-0.0.0.0    us.pdc.micloud.xiaomi.net
-0.0.0.0    osupdate2020.shalltry.com
-0.0.0.0    jupiter.intl.sys.miui.com
-0.0.0.0    tnc-v2-boot.capcutapi.com
-0.0.0.0    policy-tcp.mtgglobals.com
-0.0.0.0    engagements.appsflyer.com
-0.0.0.0    api16-event-sg2.pangle.io
-0.0.0.0    wpk-sdkv-intl.effirst.com
-0.0.0.0    telemetry.tradingview.com
-0.0.0.0    api.setting.intl.miui.com
-0.0.0.0    api-ad-adapter-sg.wps.com
-0.0.0.0    sdkapi.dsp-api.moloco.com
-0.0.0.0    log-upload-os.hoyolab.com
-0.0.0.0    adaggreg-ali.shalltry.com
-0.0.0.0    scar.unityads.unity3d.com
-0.0.0.0    middle-abtester.afafb.com
-0.0.0.0    metrics-config.icloud.com
-0.0.0.0    block-score-opt.afafb.com
-0.0.0.0    stun.services.mozilla.com
-0.0.0.0    api.consentjs.datagrail.io
-0.0.0.0    app.chat.global.xiaomi.net
-0.0.0.0    metrics-dra.dt.hicloud.com
-0.0.0.0    app-analytics-services.com
-0.0.0.0    observe-tcp.mtgglobals.com
-0.0.0.0    mgepodownload.mediatek.com
-0.0.0.0    prg-apac.smartadserver.com
-0.0.0.0    api-access-wf-va.pangle.io
-0.0.0.0    minor-api-os.hoyoverse.com
-0.0.0.0    apac03.trk.bid-algorix.com
-0.0.0.0    c-api-bit.shopeemobile.com
-0.0.0.0    block-hard-recom.afafb.com
-0.0.0.0    privacyportal.onetrust.com
-0.0.0.0    browser.events.data.msn.com
-0.0.0.0    mobile-image.useinsider.com
-0.0.0.0    client-telemetry.roblox.com
-0.0.0.0    app-manage-api.shalltry.com
-0.0.0.0    log-upload-os.hoyoverse.com
-0.0.0.0    o-sdk.mediation.unity3d.com
-0.0.0.0    i-sdk.mediation.unity3d.com
-0.0.0.0    mediation-sg2-log.pangle.io
-0.0.0.0    ep1.adtrafficquality.google
-0.0.0.0    i-adq.mediation.unity3d.com
-0.0.0.0    fractionfridgejudiciary.com
-0.0.0.0    sr-client-cfg.amplitude.com
-0.0.0.0    4ad891ea55c5.cdn4.forter.com
-0.0.0.0    ogads-pa.clients6.google.com
-0.0.0.0    sg1-spiky.clevertap-prod.com
-0.0.0.0    configure-tcp.mtgglobals.com
-0.0.0.0    api16-access-wf-sg.pangle.io
-0.0.0.0    browser-intake-datadoghq.com
-0.0.0.0    addfd325e6e3.cdn4.forter.com
-0.0.0.0    analytics-tcp.mtgglobals.com
-0.0.0.0    laz-dorangesource.alicdn.com
-0.0.0.0    gateway.unityads.unity3d.com
-0.0.0.0    us1-spiky.clevertap-prod.com
-0.0.0.0    eu1-spiky.clevertap-prod.com
-0.0.0.0    1001000927.sdk-hb.smaato.net
-0.0.0.0    arms-retcode-sg.aliyuncs.com
-0.0.0.0    cl-data-id.ads.heytapmobi.com
-0.0.0.0    sf16-static.i18n-pglstatp.com
-0.0.0.0    app-analytics-v2.snapchat.com
-0.0.0.0    api.competition.intl.miui.com
-0.0.0.0    cloud-config-api.shalltry.com
-0.0.0.0    yueads.apse.svr.rixengine.com
-0.0.0.0    cdn-configcenter.shalltry.com
-0.0.0.0    cl-data-sg.ads.heytapmobi.com
-0.0.0.0    aps3-spiky.clevertap-prod.com
-0.0.0.0    incoming.telemetry.mozilla.org
-0.0.0.0    resolver.msg.global.xiaomi.net
-0.0.0.0    firebaselogging.googleapis.com
-0.0.0.0    api16-dual-event-sg2.pangle.io
-0.0.0.0    multiservice.guangzhuiyuan.com
-0.0.0.0    analytics.starmakerstudios.com
-0.0.0.0    ys-log-upload-os.hoyoverse.com
-0.0.0.0    ad-log-upload-os.hoyoverse.com
-0.0.0.0    terabox.apse.svr.rixengine.com
-0.0.0.0    http-intake.logs.datadoghq.com
-0.0.0.0    us.micardapi.micloud.xiaomi.net
-0.0.0.0    datafinder-rabbit.meitustat.com
-0.0.0.0    sdk-log-upload-os.hoyoverse.com
-0.0.0.0    ew1.reg.bigdata.ssp.samsung.com
-0.0.0.0    vg-new-ssplib-hb.mtgglobals.com
-0.0.0.0    psegment-us.netcoresmartech.com
-0.0.0.0    prod-mediate-events.applovin.com
-0.0.0.0    event-portal.dailyinnovation.biz
-0.0.0.0    ephemeralcounters.api.roblox.com
-0.0.0.0    census-app.scorecardresearch.com
-0.0.0.0    api16-access-ttp.tiktokpangle.us
-0.0.0.0    global-staticplat.cdn.bcebos.com
-0.0.0.0    sg-public-data-api.hoyoverse.com
-0.0.0.0    configure-tcp-ios.mtgglobals.com
-0.0.0.0    sf19-fe-tos-sg.i18n-pglstatp.com
-0.0.0.0    diagmon-serviceapi.samsungdm.com
-0.0.0.0    scripts.mf.webcontentassessor.com
-0.0.0.0    lf-static.tiktokpangle-cdn-us.com
-0.0.0.0    firebaselogging-pa.googleapis.com
-0.0.0.0    firebase-settings.crashlytics.com
-0.0.0.0    fundingchoicesmessages.google.com
-0.0.0.0    tracking-nativesdks.mparticle.com
-0.0.0.0    apmplus.ap-southeast-1.volces.com
-0.0.0.0    federatedcompute-pa.googleapis.com
-0.0.0.0    api16-access-ttp-b.tiktokpangle.us
-0.0.0.0    sdkopmetrics-us.dsp-api.moloco.com
-0.0.0.0    mandirisekuritas.api.useinsider.com
-0.0.0.0    edge.browser-fp.production.linktr.ee
-0.0.0.0    crashlyticsreports-pa.googleapis.com
-0.0.0.0    configure-tcp-android.mtgglobals.com
-0.0.0.0    sdkopmetrics-asia.dsp-api.moloco.com
-0.0.0.0    mandirisekuritasuat.api.useinsider.com
-0.0.0.0    telemetry.individual.githubcopilot.com
-0.0.0.0    copilot-telemetry.githubusercontent.com
-0.0.0.0    westus-0.in.applicationinsights.azure.com
-0.0.0.0    ff7f2545b2954f179b5207a114086490.js.ubembed.com
-0.0.0.0    e4b13862e98a42debf77dc378a369086.unbouncepages.com
-0.0.0.0    sg-gcp-ad-track-sdk-asia-southeast1-c.mtgglobals.com
-0.0.0.0    event-tracking-project.ap-southeast-1.log.aliyuncs.com
-0.0.0.0    aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
-0.0.0.0    ap-southeast-1.log.aliyuncs.com.ap-southeast-1.log.aliyuncs.com
-0.0.0.0    api.ad.snaptube.app
-0.0.0.0    prodregistryv2.org
-0.0.0.0    imagineart.postaffiliatepro.com
-0.0.0.0    cdn.tolt.io
-0.0.0.0    d.alicdn.com
-0.0.0.0    events-api.soundcloud.com
-0.0.0.0    x-id.ls.glanceapis.com
-0.0.0.0    sg-new-ssplib-hb.mtgglobals.com
-0.0.0.0    js.hs-scripts.com
-0.0.0.0    e2c81.gcp.gvt2.com
-0.0.0.0    mediation-receiver.afafb.com
-0.0.0.0    hella.afafb.com
-0.0.0.0    gecko-sg.byteoversea.com
-0.0.0.0    pl28392004.effectivegatecpm.com
-0.0.0.0    adg-data.kajicam.com
-0.0.0.0    propsid.b-cdn.net
-0.0.0.0    anymind360.com
-0.0.0.0    sg-gcp-ad-track-sdk-asia-southeast1-b.mtgglobals.com
-0.0.0.0    fp-it.fengkongcloud.com
-0.0.0.0    sdk.iad-07.braze.com
-0.0.0.0    app-log-oversea.immomo.com
-0.0.0.0    tracking-identity.mparticle.com
-0.0.0.0    report.pixverse.ai
-0.0.0.0    e2c27.gcp.gvt2.com
-0.0.0.0    odf.app-ads-services.com
-0.0.0.0    e2c60.gcp.gvt2.com
-0.0.0.0    experiment.pixverse.ai
-0.0.0.0    sdk-04.moengage.com
-0.0.0.0    eu1.clevertap-prod.com
-0.0.0.0    api.kickoffo.site
-0.0.0.0    stage-mediate-events.applovin.com
-0.0.0.0    t.applovin.com
-0.0.0.0    g2288.com
-0.0.0.0    coosync.com
-0.0.0.0    atgafwagpdp.com
-0.0.0.0    rtbtrack-asia.rtblab.net
-0.0.0.0    t-odx.op-mobile.opera.com
-0.0.0.0    attr.union.ucweb.com
-0.0.0.0    bts-la.ucweb.com
-0.0.0.0    i.sng.link
-0.0.0.0    dc.di.atlas.samsung.com
-0.0.0.0    ios.pclog.3u.com
-0.0.0.0    ep2.adtrafficquality.google
-0.0.0.0    cli-fb-tcp.mintegral.net
-0.0.0.0    api.maxesads.com
-0.0.0.0    cached-ad-a.fyber.com
-0.0.0.0    cached-ad-b.fyber.com
-0.0.0.0    sg-new-cdn-ssplib-asia-southeast1-c-hb.mtgglobals.com
-0.0.0.0    sg-new-cdn-ssplib-asia-southeast1-b-hb.mtgglobals.com
-0.0.0.0    geoprox-js-sdk.datadome.co
-0.0.0.0    guid.tpns.tencent.com
-0.0.0.0    h.trace.qq.com
-0.0.0.0    dsu-b.shalltry.com
-0.0.0.0    regi.di.atlas.samsung.com
-0.0.0.0    i.l-uac.inmobicdn.net
-0.0.0.0    sf19-static.i18n-pglstatp.com
-0.0.0.0    lazy.mtgglobals.com
-0.0.0.0    cm-10-171.getui.com
-0.0.0.0    apm-log-upload-os.hoyoverse.com
-0.0.0.0    client-uc.heytapmobi.com
-0.0.0.0    aps3.clevertap-prod.com
-0.0.0.0    sdk-api.maticooads.com
-0.0.0.0    tracker.maticooads.com
-0.0.0.0    prod.uidapi.com
-0.0.0.0    dcbbwymp1bhlf.cloudfront.net
-0.0.0.0    accuratephrase.com
-0.0.0.0    qb.heartyboney.com
-0.0.0.0    cdn.tapioni.com
-0.0.0.0    centralized.zaloapp.com
-0.0.0.0    mediation.pangle.io
-0.0.0.0    otlp.nr-data.net
-0.0.0.0    img.onesignal.com
-0.0.0.0    asanalytics.booking.com
-0.0.0.0    eef3e6c805ff.cdn4.forter.com
-0.0.0.0    prod-e.axon.ai
-0.0.0.0    assets.remerge.io
-0.0.0.0    beyondwickedmapping.org
-0.0.0.0    assetsconfigcdn.org
-0.0.0.0    api.fpjs.io
-0.0.0.0    waterfall.inner-active.mobi
-0.0.0.0    eventfnt-asia.dsp-api.moloco.com
-0.0.0.0    opr.adx.opera.com
-0.0.0.0    exchange-a-events.inner-active.mobi
-0.0.0.0    openfpcdn.io
-0.0.0.0    e2c53.gcp.gvt2.com
-0.0.0.0    adx-id.ads.heytapmobi.com
-0.0.0.0    845f4956cb814a249c93a09fd77c6b26.fp.measure.office.com
-0.0.0.0    upload2.fp.measure.office.com
-0.0.0.0    upload.fp.measure.office.com
-0.0.0.0    db1bd92a590e4184acfc7f1943153980.fp.measure.office.com
-0.0.0.0    config.fp.measure.office.com
-0.0.0.0    apm-rum-sgp.inf.miui.com
-0.0.0.0    domain
-0.0.0.0    ww17.video.lovelyoy.xyz
-0.0.0.0    feedbackws.icloud.com
-0.0.0.0    t-in.ls.glanceapis.com
-0.0.0.0    gsgorpt.adview.com
-0.0.0.0    ztoken.uyunad.com
-0.0.0.0    mazu.m.qq.com
-0.0.0.0    sdkserver-dra.op.hicloud.com
-0.0.0.0    a-ring.msedge.net
-0.0.0.0    onelinksmartscript.appsflyer.com
-0.0.0.0    sdk-oversea.dmrtb.com
-0.0.0.0    ip2city.domob.cn
-0.0.0.0    os-code.shalltry.com
-0.0.0.0    ncc.avast.com
-0.0.0.0    api.kwaizt.com
-0.0.0.0    shepherd.avcdn.net
-0.0.0.0    cloud-config-oss.shalltry.com
-0.0.0.0    ipm.avcdn.net
-0.0.0.0    script.ifdo.co.kr
-0.0.0.0    config-api.internet.apps.samsung.com
-0.0.0.0    13cfb-2f770.api.pushwoosh.com
-0.0.0.0    oshola.shalltry.com
-0.0.0.0    osfeature.shalltry.com
-0.0.0.0    mvconf.f.360.cn
-0.0.0.0    botnetc.com
-0.0.0.0    update.carystudio.com
-0.0.0.0    v1035858.macloud.host
-0.0.0.0    v4.ident.me
-0.0.0.0    esas.carystudio.com
-0.0.0.0    svr.d.carystudio.com
-0.0.0.0    update.peeplink.eu
-0.0.0.0    dvrxpert.tiananmensquare1989.su
-0.0.0.0    tiananmensquare1989.su
-0.0.0.0    donasi.lk21.party
-0.0.0.0    tracker.hownetwork.xyz
-0.0.0.0    tracker.openwebtorrent.com
-0.0.0.0    usage-ping.brave.com
-0.0.0.0    static-img.threatbook.cn
-0.0.0.0    slsrole-intl.alicdn.com
-0.0.0.0    mepodownload.mediatek.com
-0.0.0.0    jmacs.maribacaberita.com
-0.0.0.0    acs.maribacaberita.com
+||fp.customtowaway.com^$important
+||ocsp.comodoca.com^$important
+||ad.youtube.com^$important
+||p16-be-pack-va.i18n-pglstatp.com^$important
+||reports.crashlytics.com^$important
+||kswj.unionapps.info^$important
+||protostats.bigo.sg^$important
+||cdnx.soinluck.com^$important
+||notify.bugsnag.com^$important
+||astat.bugly.qcloud.com^$important
+||tracker.dsp.os.medproad.com^$important
+||cust-dv.zentrick.com^$important
+||servx.bidsxplayer.com^$important
+||taomsg-imvod.alicdn.com^$important
+||online-bill.lenzmx.com^$important
+||marketingplatform.google.com^$important
+||api.us-west-2.aiv-delivery.net^$important
+||api.input.intl.miui.com^$important
+||graph.accountkit.com^$important
+||sconfig-server-eastus.trafficmanager.inmobi.com^$important
+||sfunc.ivymobile.com^$important
+||up.cm.ksmobile.com^$important
+||sccc.sys.intl.xiaomi.com^$important
+||sconfig-server-gke-gw1.ssp.inmobi.com^$important
+||sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com^$important
+||sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com^$important
+||sf16-fe-tos-sg.i18n-pglstatp.com^$important
+||tr069-avs.firstmedia.com^$important
+||browser.sentry-cdn.com^$important
+||ads.baca.co.id^$important
+||ai.adtarget.tech^$important
+||ipv4.test-ipv6.ch^$important
+||resolver.msg.xiaomi.net^$important
+||api.hybrid.intl.xiaomi.com^$important
+||t7.a.market.xiaomi.com^$important
+||statf.dc.oppomobile.com^$important
+||mytelkomselprod.api.useinsider.com^$important
+||cdnt.netcoresmartech.com^$important
+||npa.netcoresmartech.com^$important
+||v-id.ls.glance-internal.inmobi.com^$important
+||us.ynuf.aliapp.org^$important
+||geoip.hmageo.com^$important
+||api2.wshareit.com^$important
+||nam.veta.naver.com^$important
+||telemetry-gke-gw3.ssp.inmobi.com^$important
+||at.alicdn.com^$important
+||os.alipayobjects.com^$important
+||6288666.global.r2.siteimproveanalytics.io^$important
+||caterpillar.tt.omtrdc.net^$important
+||log32-normal-sg.capcutapi.com^$important
+||static.whatshelp.io^$important
+||app.adjust.com^$important
+||app.appsflyer.com^$important
+||csi.gstatic.com^$important
+||api.gallery.intl.miui.com^$important
+||s.w-x.co^$important
+||bvtpk.com^$important
+||sp-trk.com^$important
+||update.avlyun.sec.miui.com^$important
+||g.live.com^$important
+||port.sec.intl.miui.com^$important
+||servg1.net^$important
+||ynuf.aliapp.org^$important
+||brdtest.com^$important
+||id.popin.cc^$important
+||hb.jixie.io^$important
+||z.totonm.com^$important
+||xp.apple.com^$important
+||y.alicdn.com^$important
+||g.alicdn.com^$important
+||t.alicdn.com^$important
+||log.popin.cc^$important
+||go.ezodn.com^$important
+||fo.iemiq.com^$important
+||c.paypal.com^$important
+||cdn4image.com^$important
+||img.cdn.house^$important
+||fp.msedge.net^$important
+||app.adjust.io^$important
+||tr.acobt.tech^$important
+||movip.wps.com^$important
+||p.typekit.net^$important
+||puz.afafb.com^$important
+||econventa.com^$important
+||dt.beyla.site^$important
+||eu.ekatox.com^$important
+||ms.applvn.com^$important
+||api.mythad.com^$important
+||api.onegg.site^$important
+||perr.l-err.biz^$important
+||lms.roblox.com^$important
+||img.alicdn.com^$important
+||push.meitu.com^$important
+||i.sgsnssdk.com^$important
+||ms4.applvn.com^$important
+||mediation.goog^$important
+||go.rcvlink.com^$important
+||t.pubmatic.com^$important
+||d.applovin.com^$important
+||api.mosspf.net^$important
+||api.mossru.com^$important
+||tc.vbnmhjlp.com^$important
+||ds.shalltry.com^$important
+||perr.l-agent.me^$important
+||aet.spotify.com^$important
+||lang.alicdn.com^$important
+||af.shalltry.com^$important
+||fm.shalltry.com^$important
+||sil.appnext.com^$important
+||ms.shalltry.com^$important
+||id.hadron.ad.gt^$important
+||bid.sparteo.com^$important
+||tc.qzwxrtyk.com^$important
+||st.pubmatic.com^$important
+||st.wshareit.com^$important
+||mdap.alipay.com^$important
+||umdc.aliapp.org^$important
+||b-gtc.getui.net^$important
+||c-gtc.getui.net^$important
+||ms.applovin.com^$important
+||rt.applovin.com^$important
+||rmonitor.qq.com^$important
+||tc.mnbvcxzq.com^$important
+||tkda.mossru.com^$important
+||icu.newsroom.bi^$important
+||p.cquotient.com^$important
+||go.rcvlinks.com^$important
+||logs.netflix.com^$important
+||wvcfg.alicdn.com^$important
+||api.adaether.com^$important
+||api.mossfast.com^$important
+||beacons.gvt2.com^$important
+||ecsv2.roblox.com^$important
+||dit.whatsapp.net^$important
+||i-n.sgsnssdk.com^$important
+||sts.applovin.com^$important
+||rep.maxesads.com^$important
+||cdn.insurads.com^$important
+||id.crwdcntrl.net^$important
+||ins.shalltry.com^$important
+||s-odx.oleads.com^$important
+||bband1.afafb.com^$important
+||tadata.afafb.com^$important
+||cdn.id5-sync.com^$important
+||cdn.shalltry.com^$important
+||api.inmense.site^$important
+||ios-pclog.3u.com^$important
+||int.kvaedit.site^$important
+||apps.outfit7.com^$important
+||gak.webtoons.com^$important
+||b-gtc.gepush.com^$important
+||d-code.liadm.com^$important
+||gcm.ksmobile.net^$important
+||ww1.soldstock.io^$important
+||ups.ksmobile.net^$important
+||p4-ad.adkwai.com^$important
+||c-gtc.gepush.com^$important
+||sofire.baidu.com^$important
+||ulog.kwai-pro.com^$important
+||vulcan2.branch.io^$important
+||ssdk-sg.pangle.io^$important
+||ingress.linktr.ee^$important
+||api.mossturbo.com^$important
+||kste.ksapisrv.com^$important
+||beacons2.gvt2.com^$important
+||beacons3.gvt2.com^$important
+||beacons4.gvt2.com^$important
+||beacons5.gvt2.com^$important
+||beacons5.gvt3.com^$important
+||vulcan5.branch.io^$important
+||api.onesignal.com^$important
+||vulcan3.branch.io^$important
+||tz.sec.xiaomi.com^$important
+||px-intl.ucweb.com^$important
+||hudong.alicdn.com^$important
+||e2c4.gcp.gvt2.com^$important
+||adui.tg.meitu.com^$important
+||featureassets.org^$important
+||parsley.detik.com^$important
+||inrecsys.popin.cc^$important
+||e2c7.gcp.gvt2.com^$important
+||gslb.shalltry.com^$important
+||tkda.mossfast.com^$important
+||cfg.sonicsads.com^$important
+||res.adx.opera.com^$important
+||s-odx.osite99.com^$important
+||gamedot.afafb.com^$important
+||vulcan1.branch.io^$important
+||cdn.econventa.com^$important
+||e2c6.gcp.gvt2.com^$important
+||sdk.ad.smaato.net^$important
+||sdk-api.kidoz.net^$important
+||use1-turn.fpjs.io^$important
+||ulog.kwaipros.com^$important
+||wlog.kuaishou.com^$important
+||cdn.cookielaw.org^$important
+||npv.sonicsads.com^$important
+||promo.cermati.com^$important
+||kix-api.mythad.com^$important
+||clevertap-prod.com^$important
+||api.antibanads.com^$important
+||oslab.shalltry.com^$important
+||e2c46.gcp.gvt2.com^$important
+||e2c20.gcp.gvt2.com^$important
+||e2c11.gcp.gvt2.com^$important
+||e2c30.gcp.gvt2.com^$important
+||684d0d42.akstat.io^$important
+||api.useinsider.com^$important
+||tracing.roblox.com^$important
+||gjapplog.ucweb.com^$important
+||e2c78.gcp.gvt2.com^$important
+||stat.meitudata.com^$important
+||applets.ebxcdn.com^$important
+||analytic.detik.com^$important
+||cdn.browsiprod.com^$important
+||sync.quantumdex.io^$important
+||ads.servenobid.com^$important
+||api.robin-flow.com^$important
+||e2c22.gcp.gvt2.com^$important
+||tkda.mossturbo.com^$important
+||e2c26.gcp.gvt2.com^$important
+||e2c48.gcp.gvt2.com^$important
+||adx.ads.vungle.com^$important
+||dsu-a.shalltry.com^$important
+||scripts.clarity.ms^$important
+||dc.dqa.samsung.com^$important
+||cdn.mobilefuse.com^$important
+||api.tradplusad.com^$important
+||api.dollphoin.site^$important
+||events.newsroom.bi^$important
+||e2c69.gcp.gvt2.com^$important
+||e2c61.gcp.gvt2.com^$important
+||adsdk.microsoft.com^$important
+||default.exp-tas.com^$important
+||perr.bright-sdk.com^$important
+||mail-ads.google.com^$important
+||proxyjs.brdtnet.com^$important
+||meepo.meitustat.com^$important
+||sdk-01.moengage.com^$important
+||sdk-06.moengage.com^$important
+||log.byteoversea.com^$important
+||logs.ads.vungle.com^$important
+||newrevive.detik.com^$important
+||cdn.prod.uidapi.com^$important
+||scripts.jixie.media^$important
+||ae.iads.unity3d.com^$important
+||api.parrot-flow.com^$important
+||tkda.robin-flow.com^$important
+||titokshopsea.pxf.io^$important
+||apioci.chavoads.com^$important
+||cdn.ynuf.aliapp.org^$important
+||analytics.avcdn.net^$important
+||mssdk-sg.tiktok.com^$important
+||images.phonedata.me^$important
+||l.contentsquare.net^$important
+||logsdk.kwai-pro.com^$important
+||cm-10-197.getui.com^$important
+||ire-dsc.shalltry.com^$important
+||js.monitor.azure.com^$important
+||lazy-tcp.rayjump.com^$important
+||beacons.gcp.gvt2.com^$important
+||collector.github.com^$important
+||tnc-sg.capcutapi.com^$important
+||rabbit.meitustat.com^$important
+||gondar.meitustat.com^$important
+||ire-dsu.shalltry.com^$important
+||analytics.google.com^$important
+||mon-sg.capcutapi.com^$important
+||sstatic1.histats.com^$important
+||ads.digiadglobal.com^$important
+||useast.quantumdex.io^$important
+||trace.free-reels.com^$important
+||cdn.iads.unity3d.com^$important
+||toblog.tobsnssdk.com^$important
+||gametester.afafb.com^$important
+||sessions.bugsnag.com^$important
+||surgex.media-412.com^$important
+||log-boot.tiktokv.com^$important
+||event.tradplusad.com^$important
+||assets.mintegral.com^$important
+||analytics.300624.com^$important
+||behacdn.ksmobile.net^$important
+||cfg.cml.ksmobile.com^$important
+||log-sdk.ksapisrv.com^$important
+||cachedown.alicdn.com^$important
+||analytic20.detik.com^$important
+||metrics-prod.suno.com^$important
+||check-tcp.rayjump.com^$important
+||shepherd.ff.avast.com^$important
+||mcc-intl.inf.miui.com^$important
+||api.sec.intl.miui.com^$important
+||config.ads.vungle.com^$important
+||mcc.intl.inf.miui.com^$important
+||ingest.m2catalyst.com^$important
+||events.ads.vungle.com^$important
+||log15.byteoversea.com^$important
+||adv.sec.intl.miui.com^$important
+||imasdk.googleapis.com^$important
+||public.servenobid.com^$important
+||i.l-new.inmobicdn.net^$important
+||api.device.xiaomi.net^$important
+||sentry-prod.branch.io^$important
+||api.lab.amplitude.com^$important
+||bidder.tradplusad.com^$important
+||noti-us.adsmoloco.com^$important
+||mobile.useinsider.com^$important
+||collect.ureca-lab.com^$important
+||r-id.ls.glanceapis.com^$important
+||one.cryptonomiconf.com^$important
+||policy-tcp.rayjump.com^$important
+||sg1.clevertap-prod.com^$important
+||proxyjs.bright-sdk.com^$important
+||http-test1.brdtnet.com^$important
+||ire-oneid.shalltry.com^$important
+||mediation-sg.pangle.io^$important
+||apse.trk.rixengine.com^$important
+||api-ad-adapter.wps.com^$important
+||api16-log-va.pangle.io^$important
+||us1.clevertap-prod.com^$important
+||sdkc.vervegroupinc.net^$important
+||apm-receiver.afafb.com^$important
+||os-notice.shalltry.com^$important
+||pa.netcoresmartech.com^$important
+||ai-robot-hub.afafb.com^$important
+||crashlogs.whatsapp.net^$important
+||v16-ad.byteoversea.com^$important
+||in.ap1.segmentapis.com^$important
+||adashx.ut.dingtalk.com^$important
+||statistic.live.126.net^$important
+||v-id.ls.glanceapis.com^$important
+||analytics.us.tiktok.com^$important
+||newsaggreg.shalltry.com^$important
+||streamback.ff.avast.com^$important
+||collector.bsg.brave.com^$important
+||ogads-pa.googleapis.com^$important
+||lazy-tcp.mtgglobals.com^$important
+||audid-api-sg.taobao.com^$important
+||flash.sec.intl.miui.com^$important
+||mum.alibabachengdun.com^$important
+||pangolin16.sgsnssdk.com^$important
+||middle-defend.afafb.com^$important
+||link.rubiconproject.com^$important
+||cpn.netcoresmartech.com^$important
+||npn.netcoresmartech.com^$important
+||statics.creativecdn.com^$important
+||tobapplog.tobsnssdk.com^$important
+||nelo2-col.navercorp.com^$important
+||sdk.open.talk.getui.com^$important
+||ether-pack-va.pangle.io^$important
+||www.app-ads-services.com^$important
+||settings.crashlytics.com^$important
+||www.googletagmanager.com^$important
+||eitri.api.useinsider.com^$important
+||check-tcp.mtgglobals.com^$important
+||authbe.sec.intl.miui.com^$important
+||api.g.micloud.xiaomi.net^$important
+||mssdk-sg.byteoversea.com^$important
+||micro.rubiconproject.com^$important
+||cdn.liftoff-creatives.io^$important
+||apac.trk.svr-algorix.com^$important
+||gamedot-config.afafb.com^$important
+||sspapi-prd.samsungrs.com^$important
+||api-adservices.apple.com^$important
+||odm.app-ads-services.com^$important
+||analytics.wondershare.cc^$important
+||gangwaynumberprivacy.com^$important
+||loremipsum.adkaora.space^$important
+||yslid.api.useinsider.com^$important
+||h-adashx.ut.dingtalk.com^$important
+||supportmetrics.apple.com^$important
+||startup.mobile.yandex.net^$important
+||configure-tcp.rayjump.com^$important
+||us.pdc.micloud.xiaomi.net^$important
+||osupdate2020.shalltry.com^$important
+||jupiter.intl.sys.miui.com^$important
+||tnc-v2-boot.capcutapi.com^$important
+||policy-tcp.mtgglobals.com^$important
+||engagements.appsflyer.com^$important
+||api16-event-sg2.pangle.io^$important
+||wpk-sdkv-intl.effirst.com^$important
+||telemetry.tradingview.com^$important
+||api.setting.intl.miui.com^$important
+||api-ad-adapter-sg.wps.com^$important
+||sdkapi.dsp-api.moloco.com^$important
+||log-upload-os.hoyolab.com^$important
+||adaggreg-ali.shalltry.com^$important
+||scar.unityads.unity3d.com^$important
+||middle-abtester.afafb.com^$important
+||metrics-config.icloud.com^$important
+||block-score-opt.afafb.com^$important
+||stun.services.mozilla.com^$important
+||api.consentjs.datagrail.io^$important
+||app.chat.global.xiaomi.net^$important
+||metrics-dra.dt.hicloud.com^$important
+||app-analytics-services.com^$important
+||observe-tcp.mtgglobals.com^$important
+||mgepodownload.mediatek.com^$important
+||prg-apac.smartadserver.com^$important
+||api-access-wf-va.pangle.io^$important
+||minor-api-os.hoyoverse.com^$important
+||apac03.trk.bid-algorix.com^$important
+||c-api-bit.shopeemobile.com^$important
+||block-hard-recom.afafb.com^$important
+||privacyportal.onetrust.com^$important
+||browser.events.data.msn.com^$important
+||mobile-image.useinsider.com^$important
+||client-telemetry.roblox.com^$important
+||app-manage-api.shalltry.com^$important
+||log-upload-os.hoyoverse.com^$important
+||o-sdk.mediation.unity3d.com^$important
+||i-sdk.mediation.unity3d.com^$important
+||mediation-sg2-log.pangle.io^$important
+||ep1.adtrafficquality.google^$important
+||i-adq.mediation.unity3d.com^$important
+||fractionfridgejudiciary.com^$important
+||sr-client-cfg.amplitude.com^$important
+||4ad891ea55c5.cdn4.forter.com^$important
+||ogads-pa.clients6.google.com^$important
+||sg1-spiky.clevertap-prod.com^$important
+||configure-tcp.mtgglobals.com^$important
+||api16-access-wf-sg.pangle.io^$important
+||browser-intake-datadoghq.com^$important
+||addfd325e6e3.cdn4.forter.com^$important
+||analytics-tcp.mtgglobals.com^$important
+||laz-dorangesource.alicdn.com^$important
+||gateway.unityads.unity3d.com^$important
+||us1-spiky.clevertap-prod.com^$important
+||eu1-spiky.clevertap-prod.com^$important
+||1001000927.sdk-hb.smaato.net^$important
+||arms-retcode-sg.aliyuncs.com^$important
+||cl-data-id.ads.heytapmobi.com^$important
+||sf16-static.i18n-pglstatp.com^$important
+||app-analytics-v2.snapchat.com^$important
+||api.competition.intl.miui.com^$important
+||cloud-config-api.shalltry.com^$important
+||yueads.apse.svr.rixengine.com^$important
+||cdn-configcenter.shalltry.com^$important
+||cl-data-sg.ads.heytapmobi.com^$important
+||aps3-spiky.clevertap-prod.com^$important
+||incoming.telemetry.mozilla.org^$important
+||resolver.msg.global.xiaomi.net^$important
+||firebaselogging.googleapis.com^$important
+||api16-dual-event-sg2.pangle.io^$important
+||multiservice.guangzhuiyuan.com^$important
+||analytics.starmakerstudios.com^$important
+||ys-log-upload-os.hoyoverse.com^$important
+||ad-log-upload-os.hoyoverse.com^$important
+||terabox.apse.svr.rixengine.com^$important
+||http-intake.logs.datadoghq.com^$important
+||us.micardapi.micloud.xiaomi.net^$important
+||datafinder-rabbit.meitustat.com^$important
+||sdk-log-upload-os.hoyoverse.com^$important
+||ew1.reg.bigdata.ssp.samsung.com^$important
+||vg-new-ssplib-hb.mtgglobals.com^$important
+||psegment-us.netcoresmartech.com^$important
+||prod-mediate-events.applovin.com^$important
+||event-portal.dailyinnovation.biz^$important
+||ephemeralcounters.api.roblox.com^$important
+||census-app.scorecardresearch.com^$important
+||api16-access-ttp.tiktokpangle.us^$important
+||global-staticplat.cdn.bcebos.com^$important
+||sg-public-data-api.hoyoverse.com^$important
+||configure-tcp-ios.mtgglobals.com^$important
+||sf19-fe-tos-sg.i18n-pglstatp.com^$important
+||diagmon-serviceapi.samsungdm.com^$important
+||scripts.mf.webcontentassessor.com^$important
+||lf-static.tiktokpangle-cdn-us.com^$important
+||firebaselogging-pa.googleapis.com^$important
+||firebase-settings.crashlytics.com^$important
+||fundingchoicesmessages.google.com^$important
+||tracking-nativesdks.mparticle.com^$important
+||apmplus.ap-southeast-1.volces.com^$important
+||federatedcompute-pa.googleapis.com^$important
+||api16-access-ttp-b.tiktokpangle.us^$important
+||sdkopmetrics-us.dsp-api.moloco.com^$important
+||mandirisekuritas.api.useinsider.com^$important
+||edge.browser-fp.production.linktr.ee^$important
+||crashlyticsreports-pa.googleapis.com^$important
+||configure-tcp-android.mtgglobals.com^$important
+||sdkopmetrics-asia.dsp-api.moloco.com^$important
+||mandirisekuritasuat.api.useinsider.com^$important
+||telemetry.individual.githubcopilot.com^$important
+||copilot-telemetry.githubusercontent.com^$important
+||westus-0.in.applicationinsights.azure.com^$important
+||ff7f2545b2954f179b5207a114086490.js.ubembed.com^$important
+||e4b13862e98a42debf77dc378a369086.unbouncepages.com^$important
+||sg-gcp-ad-track-sdk-asia-southeast1-c.mtgglobals.com^$important
+||event-tracking-project.ap-southeast-1.log.aliyuncs.com^$important
+||aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com^$important
+||ap-southeast-1.log.aliyuncs.com.ap-southeast-1.log.aliyuncs.com^$important
+||api.ad.snaptube.app^$important
+||prodregistryv2.org^$important
+||imagineart.postaffiliatepro.com^$important
+||cdn.tolt.io^$important
+||d.alicdn.com^$important
+||events-api.soundcloud.com^$important
+||x-id.ls.glanceapis.com^$important
+||sg-new-ssplib-hb.mtgglobals.com^$important
+||js.hs-scripts.com^$important
+||e2c81.gcp.gvt2.com^$important
+||mediation-receiver.afafb.com^$important
+||hella.afafb.com^$important
+||gecko-sg.byteoversea.com^$important
+||pl28392004.effectivegatecpm.com^$important
+||adg-data.kajicam.com^$important
+||propsid.b-cdn.net^$important
+||anymind360.com^$important
+||sg-gcp-ad-track-sdk-asia-southeast1-b.mtgglobals.com^$important
+||fp-it.fengkongcloud.com^$important
+||sdk.iad-07.braze.com^$important
+||app-log-oversea.immomo.com^$important
+||tracking-identity.mparticle.com^$important
+||report.pixverse.ai^$important
+||e2c27.gcp.gvt2.com^$important
+||odf.app-ads-services.com^$important
+||e2c60.gcp.gvt2.com^$important
+||experiment.pixverse.ai^$important
+||sdk-04.moengage.com^$important
+||eu1.clevertap-prod.com^$important
+||api.kickoffo.site^$important
+||stage-mediate-events.applovin.com^$important
+||t.applovin.com^$important
+||g2288.com^$important
+||coosync.com^$important
+||atgafwagpdp.com^$important
+||rtbtrack-asia.rtblab.net^$important
+||t-odx.op-mobile.opera.com^$important
+||attr.union.ucweb.com^$important
+||bts-la.ucweb.com^$important
+||i.sng.link^$important
+||dc.di.atlas.samsung.com^$important
+||ios.pclog.3u.com^$important
+||ep2.adtrafficquality.google^$important
+||cli-fb-tcp.mintegral.net^$important
+||api.maxesads.com^$important
+||cached-ad-a.fyber.com^$important
+||cached-ad-b.fyber.com^$important
+||sg-new-cdn-ssplib-asia-southeast1-c-hb.mtgglobals.com^$important
+||sg-new-cdn-ssplib-asia-southeast1-b-hb.mtgglobals.com^$important
+||geoprox-js-sdk.datadome.co^$important
+||guid.tpns.tencent.com^$important
+||h.trace.qq.com^$important
+||dsu-b.shalltry.com^$important
+||regi.di.atlas.samsung.com^$important
+||i.l-uac.inmobicdn.net^$important
+||sf19-static.i18n-pglstatp.com^$important
+||lazy.mtgglobals.com^$important
+||cm-10-171.getui.com^$important
+||apm-log-upload-os.hoyoverse.com^$important
+||client-uc.heytapmobi.com^$important
+||aps3.clevertap-prod.com^$important
+||sdk-api.maticooads.com^$important
+||tracker.maticooads.com^$important
+||prod.uidapi.com^$important
+||dcbbwymp1bhlf.cloudfront.net^$important
+||accuratephrase.com^$important
+||qb.heartyboney.com^$important
+||cdn.tapioni.com^$important
+||centralized.zaloapp.com^$important
+||mediation.pangle.io^$important
+||otlp.nr-data.net^$important
+||img.onesignal.com^$important
+||asanalytics.booking.com^$important
+||eef3e6c805ff.cdn4.forter.com^$important
+||prod-e.axon.ai^$important
+||assets.remerge.io^$important
+||beyondwickedmapping.org^$important
+||assetsconfigcdn.org^$important
+||api.fpjs.io^$important
+||waterfall.inner-active.mobi^$important
+||eventfnt-asia.dsp-api.moloco.com^$important
+||opr.adx.opera.com^$important
+||exchange-a-events.inner-active.mobi^$important
+||openfpcdn.io^$important
+||e2c53.gcp.gvt2.com^$important
+||adx-id.ads.heytapmobi.com^$important
+||845f4956cb814a249c93a09fd77c6b26.fp.measure.office.com^$important
+||upload2.fp.measure.office.com^$important
+||upload.fp.measure.office.com^$important
+||db1bd92a590e4184acfc7f1943153980.fp.measure.office.com^$important
+||config.fp.measure.office.com^$important
+||apm-rum-sgp.inf.miui.com^$important
+||domain^$important
+||ww17.video.lovelyoy.xyz^$important
+||feedbackws.icloud.com^$important
+||t-in.ls.glanceapis.com^$important
+||gsgorpt.adview.com^$important
+||ztoken.uyunad.com^$important
+||mazu.m.qq.com^$important
+||sdkserver-dra.op.hicloud.com^$important
+||a-ring.msedge.net^$important
+||onelinksmartscript.appsflyer.com^$important
+||sdk-oversea.dmrtb.com^$important
+||ip2city.domob.cn^$important
+||os-code.shalltry.com^$important
+||ncc.avast.com^$important
+||api.kwaizt.com^$important
+||shepherd.avcdn.net^$important
+||cloud-config-oss.shalltry.com^$important
+||ipm.avcdn.net^$important
+||script.ifdo.co.kr^$important
+||config-api.internet.apps.samsung.com^$important
+||13cfb-2f770.api.pushwoosh.com^$important
+||oshola.shalltry.com^$important
+||osfeature.shalltry.com^$important
+||mvconf.f.360.cn^$important
+||botnetc.com^$important
+||update.carystudio.com^$important
+||v1035858.macloud.host^$important
+||v4.ident.me^$important
+||esas.carystudio.com^$important
+||svr.d.carystudio.com^$important
+||update.peeplink.eu^$important
+||dvrxpert.tiananmensquare1989.su^$important
+||tiananmensquare1989.su^$important
+||donasi.lk21.party^$important
+||tracker.hownetwork.xyz^$important
+||tracker.openwebtorrent.com^$important
+||usage-ping.brave.com^$important
+||static-img.threatbook.cn^$important
+||slsrole-intl.alicdn.com^$important
+||mepodownload.mediatek.com^$important
+||jmacs.maribacaberita.com^$important
+||acs.maribacaberita.com^$important
